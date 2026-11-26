@@ -86,7 +86,7 @@ These are not generic “Uber is busy on weekends” statements—these come dir
 
 ## How to Run
 ```powershell
-cd "d:\College Study\Documents College\Mrinal Documents\Semester\ghar\Uber-Rides-Data-Analysis-main\Uber-Rides-Data-Analysis-main"
+cd "d:\Uber-Rides-Data-Analysis-main\Uber-Rides-Data-Analysis-main"
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
