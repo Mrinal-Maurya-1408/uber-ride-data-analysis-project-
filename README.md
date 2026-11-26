@@ -13,8 +13,6 @@ The end result is an analysis you could hand to an ops/strategy teammate and imm
 ## About Me
 I’m a data analytics enthusiast focused on turning messy, real-world data into decisions. I enjoy feature engineering, exploratory analysis, and translating results into clear recommendations that an operations or product team can act on. I’m also a problem-solver by training and currently associated with **IIT Ropar**.
 
-- GitHub: **<YOUR_GITHUB_PROFILE_LINK>**
-
 ## Problem Statement
 Rideshare operations depend on timing. Two weeks with the same ride count can have very different cost/revenue profiles if one week contains longer trips, worse congestion, or more anomalous rides.
 
